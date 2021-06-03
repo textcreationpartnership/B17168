@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An answer to the sugar-bakers or sugar-refiners paper.</title>
+         </titleStmt>
+         <extent>Approx. 16KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B17168</idno><idno type="EEBO-CITATION">99886001</idno>
+  <idno type="VID">186364</idno>
+  <idno type="EEBO-PROQUEST">2240886653</idno>
+  
+            <idno type="STC">Wing A3449</idno>
+            <idno type="STC">Interim Tract Supplement Guide 816.m.13[168]</idno>
+            <idno type="STC">ESTC R225275</idno>
+            <idno type="PROQUEST">ocm99886001</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99886001e"/>
+            <note>(EEBO-TCP ; phase 2, no. B17168)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 186364)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C4:1[161])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An answer to the sugar-bakers or sugar-refiners paper.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed and are to be sold by E. Whitlock,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1695.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Sugar --  Manufacture and refining --  Early works to 1800.</term>
+               <term type="topical_term">Sugarcane industry --  Early works to 1800.</term>
+               <term type="topical_term">Sugar --  Taxation --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="response">
+            <pb facs="tcp:186364:1"/>
+            <pb n="1" facs="tcp:186364:1"/>
+            <head>AN ANSWER TO THE <hi>Sugar-Bakers</hi> or <hi>Sugar-Refiners</hi> PAPER.</head>
+            <p>THESE Gentlemen have Petition'd the House of Commons; and have delivered a Printed Paper, Intitled, <hi>The Case of the Refiners of Sugar in England.</hi> By which they mean, the Sugar-Bakers of <hi>London</hi> and <hi>Bristol:</hi> there being few of them elsewhere in <hi>England.</hi> 'Tis the Sugar Bakers of <hi>London</hi> and <hi>Bristol</hi> that make all this Noise. But they thought there was great weight in those words, <hi>in England.</hi> As if the English Parliament did not take care of the whole English Nation: that is, of all the People <hi>of England,</hi> as well as of those <hi>in England.</hi> And as if the Plantations were not <hi>England</hi> to all Intents.</p>
+            <p>They say in their Petition, that <hi>their Manufacture in</hi> England <hi>is of antient standing.</hi> Whereas it is well known, that when our Plantations fell to making of Sugar, there were but four or five Refining houses in <hi>England.</hi> And forty years before, there was hardly one. Also they say, <hi>that they employ great numbers of People.</hi> But for one Man that the Sugar-Bakers employ, the Plantations employ a hundred, even here in <hi>England:</hi> beside the mighty Navigation. And yet these Men think to be favour'd, against the Plantations.</p>
+            <p>They say in their Paper, <q>
+                  <hi>That formerly they exported great Quantities of White Su<g ref="char:EOLhyphen"/>gar into the Parts beyond Sea: which Trade, for about ten years past, hath been taken away by Forrainers.</hi>
+               </q> But what new thing happen'd about ten years ago, that brought our Sugar-Bakers into these ill Circumstances? Truly it was the Additional Duties upon Sugar, imposed by King <hi>James:</hi> a thing of their own contriving, and promo<g ref="char:EOLhyphen"/>ting, and procuring. 'Twas these Additional Duties, that one the one hand ruined the Plantations, (more particularly <hi>Barbadoes;</hi> the most flourishing of all the rest); and on the other hand disabled our Refiners from exporting their white Sugars.</p>
+            <p>Here two things may be demanded: First, what Inducement should the Refiners have, to drive on a Design so pernicious, to ruin the Plantations? Secondly, How the Additional Duties did hinder the exporting their own White Sugars?</p>
+            <p>In answer to the First, 'Tis plain they were led by their Interest, and a violent pursuit of their own Profit and Advantage. They had a great desire to engross the whole Trade to themselves, of making Brown Sugars white, and fit for Use. That so, being sole Buyers of the Browns, and sole Sellers of the Whites, they might buy and sell at their own Prices. But they saw this could not be, as long as white Su<g ref="char:EOLhyphen"/>gars were suffer'd to come from the Plantations. And therefore they must endeavour to shut them out. Not by direct Prohibitions, (for that had been too gross and too foul); but by high Duties: that is, higher in proportion upon the Whites, than up<g ref="char:EOLhyphen"/>on the Browns. Which they thought with good reason would keep out the Whites. And this was their way before, in the Sugar-Duties of King <hi>Charles</hi> the Second:
+<pb n="2" facs="tcp:186364:2"/>which these Men contrived likewise. They made the Duty upon the Whites more than treble to the Browns, when as their Price is seldom double. And because King <hi>Charles</hi> his Duties did not sufficiently keep out the Plantation White-Sugars, they got that heavy Addition of King <hi>James:</hi> by the help of Sir <hi>D. N.</hi> their great Friend, to whom ('tis presum'd) they were not ungrateful.</p>
+            <p>As to the second Question, How those Additional Duties came to hinder the Re<g ref="char:EOLhyphen"/>finers Exportations, it may have this general Answer. That as doubling the Excise lately (for one year) upon Beer and Ale, did cause such disorder and damage in that Affair, as perhaps will never be repaired. so the doubling the Duties upon Su<g ref="char:EOLhyphen"/>gar for eight years, (and indeed they were more than doubled), did utterly rout and <hi>confound</hi> the whole Sugar Trade. To the infinite prejudice both of particular Persons, and of the Kingdom in general. And therefore it is no wonder, if even the Sugar-Bakers, who had procured these Duties, did suffer by them in some respects. It being also found, that Projects extremely violent and griping, do often meet with disappointments, and contrary Effects.</p>
+            <p>But the particular Answer is this. King <hi>Charles</hi>'s Duties were and are, eighteen pence <hi>per</hi> Hundred upon brown Sugar, and five shillings upon white, (to say nothing now of Refined); with a Draw-back of half upon Exportation. King <hi>James</hi>'s Addition was, upon the Brown, seven groats; and upon the White, seven shillings: but with a Draw-back of the whole. Which great new Draw-backs gave such advantage to the forrain Refiners, that Ours were beaten out of the Trade of Exporting white Su<g ref="char:EOLhyphen"/>gars. And so by grasping at a Monopoly of the Home Trade, they lost the For<g ref="char:EOLhyphen"/>rain. But those Additional Duties being now determined, and the great Draw backs with them; nothing seems to hinder, but that the Sugar-Bakers of <hi>London</hi> and <hi>Bristol</hi> may recover their forrain Trade. They being now in the same Condition, that they were before those Duties were imposed. Only they must have patience till the Plan<g ref="char:EOLhyphen"/>tations be healed of those wounds which the Sugar-Bakers gave them by the Additi<g ref="char:EOLhyphen"/>onal Duties, and Sugar becomes plentiful again.</p>
+            <p>But to go on with their Case or Paper; They in it set down the several Duties that are now on Sugar. White Sugar, they tell us, pays inwards five shillings a Hundred, and Brown or <hi>Muscovado</hi> pays one shilling six pence. But they make no mention of Refined, or Loaf-Sugar: which (by their special Care and Contrivance) pays sixteen shillings <hi>per</hi> Hundred. By which terrible Duty these Men have got a Monopoly of that sort of Sugar. None of it is here sold but Theirs: and that of <hi>Barbados</hi> is quite shut out. Tho the <hi>Barbados</hi> Refin'd is the best in the World, and Theirs the worst: and tho that of <hi>Barbados,</hi> if it were permitted to come, would be afforded much cheaper. So that then we might cleerly undersell both <hi>Hamburgers</hi> and <hi>Hollanders.</hi> But otherwise the <hi>French</hi> (whenever they have a Peace) will undersell us all: they refining upon the Place. They'll make us leave our Fooling, and go the nearest way to work.</p>
+            <p>Then in their Paper they <hi>Note;</hi> That three Hundred weight of <hi>Muscovado</hi> when Refined, makes one Hundred of White. And so it does, and a good deal more▪ beside the Scum, Syrups, Bastards, and other Offal: which are considerable.</p>
+            <p>And now they come to their Discouragements: whereof the first and principal is this. <q>
+                  <hi>That the English Refiners paying the Duties on</hi> Muscovado <hi>inwards, and the half Duty being drawn back on Exportation; the Forrainers pay but the other Half: so that the English Refiners white Sugar stands them in more than the Forrainers.</hi>
+               </q> Here it is confess'd, that there is that Draw-back on Exportation. But the question is, whether the Refiners pay those Duties inwards. And this is the Hinge on which their Case turns. If it be true, that those Duties are paid by the Refiners; they are under a great Discouragement, and ought to be relieved. But if this be a notorious Falshood, (as it is most notorious); they should suppress their Case for shame, and withdraw their Petition for shame: Begging pardon also of that Honourable House, whom they have endeavour'd to abuse so grosly. Nothing is more notorious, than that the Importer (whether he be a Plantet or Merchant) pays those Duties. And if
+<pb n="3" facs="tcp:186364:2"/>he be a Merchant, he had paid so much less for his Sugars upon that account, when he bought them in the Plantations. So that every way, the people of the Planta<g ref="char:EOLhyphen"/>tions bear the burden. But it may safely be affirm'd, that all the Sugar-bakers of <hi>London</hi> and <hi>Bristol,</hi> put together, never paid one Farthing Custom for Sugars im<g ref="char:EOLhyphen"/>ported. And whereas these Men would insinuate, that Forrainers have the advan<g ref="char:EOLhyphen"/>tage of the Drawback, it is no such Matter; For the Drawback is for the Ease and Be<g ref="char:EOLhyphen"/>nefit of them that paid the Duties: who are the English Importers. And if these sell their Sugar to Exporters, whether Forrainers or English; they do not give away their Right to the Drawback; but they sell it, by having the better price for their Sugar.</p>
+            <p>The Second Discouragement is, the <hi>high Duty upon Spirits drawn from Molosses.</hi> And this is a real Discouragement. But the Duty was laid in favour of Corn-Brandy. If the People in and of <hi>England</hi> might do their best, and had encourage<g ref="char:EOLhyphen"/>ment; they would make such Brandy, and afford it so cheap, as to beat the French Brandy out of the World. and so we should wrest from them one of their best Trades. But when we would Rival it with Forrainers, we should not (with all humility be it spoken) favour some of our people by hindering others, but leave and encourage all men to do their best.</p>
+            <p>The Remedies they propose are three.</p>
+            <p n="1">I. <hi>That they may draw back</hi> 2s. 6d. per <hi>Hundred, on the Exportation of their White Sugars.</hi> And truly it is but reasonable, that they should draw back half the Duties they have paid. Since therefore they have paid Nothing, let them draw back half that No<g ref="char:EOLhyphen"/>thing. But in good earnest, for them to expect a Draw-back when they have paid no Duties; is a strange piece of Confidence, to give it no worse a word. They do in effect desire a Law, that the King should give them half a Crown for every Hun<g ref="char:EOLhyphen"/>dred of White Sugar they export.</p>
+            <p n="2">II. <hi>That a Duty of five shillings a Hundred</hi> (no less than that of white Sugar) <hi>may be laid on Plantation Molosses.</hi> These Sugar-bakers cannot leave off their Gri<g ref="char:EOLhyphen"/>ping Monopolizing humour. And they will play at small game, rather then sit out: as one said of the Devil, when he enter'd the herd of Swine. Since they cannot engross the Sugar Trade to their mind, they will try what they can do at Molosses. But they say, <hi>that this Duty will much help their Molosses.</hi> Thats very true. And so a good Duty upon the Provisions of <hi>Essex</hi> that come to <hi>London</hi> Market, would be a great help to the Provisions of <hi>Middlesex.</hi> If all other Molosses were kept out, they might sell theirs at their own Price: They would then have a Monopoly of Molosses. Further they say, <hi>that this Duty will not hurt the Plantations.</hi> But the People of the Plantations know, that it will hurt them. Then they Note, <hi>that the Dutch prohibit the importation of Forrain Molosses.</hi> But that which comes from their own Plantations, they do not account forrain.</p>
+            <p n="3">III. <hi>That a Duty of eighteen pence</hi> per <hi>Hundred be added to the Duty on Clay'd Sugar under the degree of White.</hi> Here they are at Monopolies agen. As <hi>Cacus</hi> of old breath'd Fire, so these Men breath Monopolies. Their Monopoly upon Refined Sugars has been compleat these many years: and upon the best Whites pretty well. And it grieves their hearts that the Course Whites should escape them. But a little Addition of Duty would bring that sort likewise into their Net; which they are now endeavouring to accomplish. But how doth this, or the other Project upon Molosses, remedy the Evil complain'd of: which is, that their Trade of white Sugars exported, is lost to Forrainers? Truly not at all: it only advances their Home Monopoly. And it seems these Men are more intent upon that, than upon recovering their Forrain Trade.</p>
+            <p>As for the Course Whites before spoken of, they are made by the People of the Plantations, and likewise by the Sugar-bakers. The Planters work by Spring water, soaking gently (from fine Clay) through the Sugar, and carrying the Dross and Mo<g ref="char:EOLhyphen"/>losses
+<pb n="4" facs="tcp:186364:3"/>away with it. The Sugarbakers▪ work by Fire, tormenting their Sugar in Stoves and Ovens: whence they have the name of Sugar-bakers. But whereas the Planter gives his Sugar a colour, by purging it; the Sugar-baker give His a colour, without purging it: and leaves it as foul as it was before. as any one may see, that puts some of it into a Glass of Water. And this filthy Balderdash they impose upon unskilful people. which also to put off the better, they would now have the Clay'd Sugar (which is so clean and wholesome) kept out by high Duties.</p>
+            <p>But 'tis humbly hoped that a Project so unreasonable will never be suffer'd to take effect. 'Tis hoped likewise, that the Plantation Refined will be permitted to come in, paying the Duties of other Whites. The Sugar-bakers got it shut out by a high Duty, because it might be afforded cheaper then theirs, and is likewise much better. It goes almost twice as far, sweetens almost twice as much, and its Relish is much more delicious. It hath therefore been a strange Self-denyal in the People of <hi>England,</hi> that when a Commodity that is so useful, and so great a means of good living, might (from their own people) be had cheap and good, they would have it bad dear. And all to set up the Sugar-bakers of <hi>London</hi> and <hi>Bristol.</hi>
+            </p>
+            <p>As matters now stand, the coming of Refined Sugar from the Plantations seems highly needful; in regard it is so good and so sure an Expedient for restoring that Trade, which the Sugar-bakers have lost to the Nation. Let the Sugar-bakers, if they can, shew some other Expedient: so it be not that which they have offer'd already, that themselves should have a Drawback when they have paid no Duty. for that is abominable. In the mean time a Proposal will be made, which will give them a good Title to a Drawback. The Proposal in short is this.</p>
+            <list>
+               <item>I. That the present Duty on Brown Sugar, which is eighteen pence a Hundred <gap reason="illegible" resp="#murp" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> with a Drawback of the half, be made twelve pence a hundred without a Draw<g ref="char:EOLhyphen"/>back.</item>
+               <item>II. That the Duty upon White Sugar (whether in Loaf or Powder) being five shillings, may be equally divided between the Planter and Sugar-baker. To be paid by the Planter (or the Importer which is all one) at the Importation, and by the Sugar baker at the Making it white. With a Drawback of four fifths on Exportation. that each pays half a Crown <hi>per</hi> hundred for Duty, and has a Drawback of two shillings.</item>
+            </list>
+            <p>
+               <hi>Note, that the Sugar-bakers share of the Duty will be very easily Collected: like the Duty on Salt.</hi>
+            </p>
+            <p>By this means our Trade of Exporting White Sugars will be restored and preserved, the King will be a Gainer, the Plantations no Losers, and the Sugar bakers will have no just Cause to complain. And these things are offer'd to Consideration, with all humility.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed and are to be Sold by <hi>E. Whitlock.</hi> 1695.</p>
+            <pb facs="tcp:186364:3"/>
+         </div>
+      </back>
+   </text>
+</TEI>
